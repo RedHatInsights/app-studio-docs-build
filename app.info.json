@@ -1,14 +1,14 @@
 {
   "app_name": "app-studio-docs",
   "node_version": ">=16.0.0",
-  "src_hash": "65ab6d9097cb346a71e3542d696f0bf584f1a9cc",
+  "src_hash": "4c73523c6ed4ea2f4e40032ebac036def703592f",
   "src_tag": "",
   "src_branch": "master",
-  "patternfly_dependencies": ["@patternfly/react-core@4.202.16"],
-  "rh_cloud_services_dependencies": ["@redhat-cloud-services/frontend-components@3.8.4"],
+  "patternfly_dependencies": ["@patternfly/react-core@4.214.1","@patternfly/react-table@4.83.1"],
+  "rh_cloud_services_dependencies": ["@redhat-cloud-services/frontend-components@3.9.1"],
   "travis": {
     "event_type": "push",
-    "build_number": "9",
-    "build_web_url": "https://app.travis-ci.com/RedHatInsights/app-studio-docs/builds/249553944"
+    "build_number": "33",
+    "build_web_url": "https://app.travis-ci.com/RedHatInsights/app-studio-docs/builds/251426981"
   }
 }
